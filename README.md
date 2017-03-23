@@ -6,6 +6,8 @@ Connect with your Github Account.
 
 On the top mean navigate to File>Open From>Github> Enter Value
 
-A modal will pop up and then copy and paste this repository.
+A modal will pop up and then copy and paste this repository. 
+
+https://github.com/ZHamburglar/git-tutorial.git
 
 
